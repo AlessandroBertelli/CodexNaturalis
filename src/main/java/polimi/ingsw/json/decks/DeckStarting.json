@@ -1,0 +1,136 @@
+{
+    "DeckStarting": [
+        {
+            "ID": 81,
+            "frontCorner": [
+                "Free",
+                "Plant",
+                "Insect",
+                "Free"
+            ],
+            "backCorner": [
+                "Fungi",
+                "Plant",
+                "Insect",
+                "Animal"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/081.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/081.png",
+            "point" : 0,
+            "attachedResource": [
+                "Insect"
+            ]
+        },
+        {
+            "ID": 82,
+            "frontCorner": [
+                "Animal",
+                "Free",
+                "Free",
+                "Fungi"
+            ],
+            "backCorner": [
+                "Plant",
+                "Animal",
+                "Fungi",
+                "Insect"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/082.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/082.png",
+            "point" : 0,
+            "attachedResource": [
+                "Fungi"
+            ]
+        },
+        {
+            "ID": 83,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Insect",
+                "Animal",
+                "Fungi",
+                "Plant"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/083.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/083.png",
+            "point" : 0,
+            "attachedResource": [
+                "Plant",
+                "Fungi"
+            ]
+        },
+        {
+            "ID": 84,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Plant",
+                "Insect",
+                "Animal",
+                "Fungi"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/084.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/084.png",
+            "point" : 0,
+            "attachedResource": [
+                "Animal",
+                "Insect"
+            ]
+        },
+        {
+            "ID": 85,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Insect",
+                "Fungi",
+                "Plant",
+                "Animal"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/085.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/085.png",
+            "point" : 0,
+            "attachedResource": [
+                "Plant",
+                "Animal",
+                "Insect"
+            ]
+        },
+        {
+            "ID": 86,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Fungi",
+                "Animal",
+                "Plant",
+                "Insect"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/086.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/086.png",
+            "point" : 0,
+            "attachedResource": [
+                "Plant",
+                "Animal",
+                "Fungi"
+            ]
+        }
+    ]
+}

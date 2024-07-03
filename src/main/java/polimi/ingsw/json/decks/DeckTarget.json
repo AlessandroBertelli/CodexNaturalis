@@ -1,0 +1,132 @@
+{
+    "DeckTarget": [
+        {
+            "ID": 87,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/087.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/087.png",
+            "color": "Fungi",
+            "point": 2,
+            "strategy": "01"
+        },
+        {
+            "ID": 88,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/088.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/088.png",
+            "color": "Plant",
+            "point": 2,
+            "strategy": "02"
+        },
+        {
+            "ID": 89,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/089.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/089.png",
+            "color": "Animal",
+            "point": 2,
+            "strategy": "03"
+        },
+        {
+            "ID": 90,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/090.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/090.png",
+            "color": "Insect",
+            "point": 2,
+            "strategy": "04"
+        },
+        {
+            "ID": 91,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/091.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/091.png",
+            "color": "Fungi",
+            "point": 3,
+            "strategy": "05"
+        },
+        {
+            "ID": 92,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/092.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/092.png",
+            "color": "Plant",
+            "point": 3,
+            "strategy": "06"
+        },
+        {
+            "ID": 93,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/093.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/093.png",
+            "color": "Animal",
+            "point": 3,
+            "strategy": "07"
+        },
+        {
+            "ID": 94,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/094.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/094.png",
+            "color": "Insect",
+            "point": 3,
+            "strategy": "08"
+        },
+        {
+            "ID": 95,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/095.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/095.png",
+            "color": "Fungi",
+            "point": 2,
+            "strategy": "09"
+        },
+        {
+            "ID": 96,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/096.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/096.png",
+            "color": "Plant",
+            "point": 2,
+            "strategy": "10"
+        },
+        {
+            "ID": 97,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/097.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/097.png",
+            "color": "Animal",
+            "point": 2,
+            "strategy": "11"
+        },
+        {
+            "ID": 98,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/098.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/098.png",
+            "color": "Insect",
+            "point": 2,
+            "strategy": "12"
+        },
+        {
+            "ID": 99,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/099.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/099.png",
+            "color": "null",
+            "point": 3,
+            "strategy": "13"
+        },
+        {
+            "ID": 100,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/100.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/100.png",
+            "color": "null",
+            "point": 2,
+            "strategy": "14"
+        },
+        {
+            "ID": 101,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/101.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/101.png",
+            "color": "null",
+            "point": 2,
+            "strategy": "15"
+        },
+        {
+            "ID": 102,
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/102.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/102.png",
+            "color": "null",
+            "point": 2,
+            "strategy": "16"
+        }
+    ]
+}

@@ -1,0 +1,1044 @@
+{
+    "DeckGold": [
+        {
+            "ID": 41,
+            "frontCorner": [
+                "null",
+                "Free",
+                "Free",
+                "Quill"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/041.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/041.png",
+            "attachedResource": "Fungi",
+            "point": 1,
+            "forEach": "Quill",
+            "requests": [
+                0,
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "ID": 42,
+            "frontCorner": [
+                "Free",
+                "Inkwell",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/042.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/042.png",
+            "attachedResource": "Fungi",
+            "point": 1,
+            "forEach": "Inkwell",
+            "requests": [
+                1,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "ID": 43,
+            "frontCorner": [
+                "Manuscript",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/043.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/043.png",
+            "attachedResource": "Fungi",
+            "point": 1,
+            "forEach": "Manuscript",
+            "requests": [
+                0,
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "ID": 44,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/044.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/044.png",
+            "attachedResource": "Fungi",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                0,
+                1,
+                0,
+                3
+            ]
+        },
+        {
+            "ID": 45,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/045.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/045.png",
+            "attachedResource": "Fungi",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                1,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "ID": 46,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/046.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/046.png",
+            "attachedResource": "Fungi",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                0,
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "ID": 47,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Inkwell",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/047.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/047.png",
+            "attachedResource": "Fungi",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "ID": 48,
+            "frontCorner": [
+                "Quill",
+                "Free",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/048.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/048.png",
+            "attachedResource": "Fungi",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "ID": 49,
+            "frontCorner": [
+                "null",
+                "Manuscript",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/049.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/049.png",
+            "attachedResource": "Fungi",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "ID": 50,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/050.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/050.png",
+            "attachedResource": "Fungi",
+            "point": 5,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                0,
+                5
+            ]
+        },
+        {
+            "ID": 51,
+            "frontCorner": [
+                "Quill",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/051.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/051.png",
+            "attachedResource": "Plant",
+            "point": 1,
+            "forEach": "Quill",
+            "requests": [
+                2,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "ID": 52,
+            "frontCorner": [
+                "Free",
+                "Manuscript",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/052.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/052.png",
+            "attachedResource": "Plant",
+            "point": 1,
+            "forEach": "Manuscript",
+            "requests": [
+                2,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "ID": 53,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Inkwell",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/053.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/053.png",
+            "attachedResource": "Plant",
+            "point": 1,
+            "forEach": "Inkwell",
+            "requests": [
+                2,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 54,
+            "frontCorner": [
+                "null",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/054.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/054.png",
+            "attachedResource": "Plant",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                3,
+                0,
+                1,
+                0
+            ]
+        },
+        {
+            "ID": 55,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/055.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/055.png",
+            "attachedResource": "Plant",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                3,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 56,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/056.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/056.png",
+            "attachedResource": "Plant",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                3,
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "ID": 57,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Quill",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/057.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/057.png",
+            "attachedResource": "Plant",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 58,
+            "frontCorner": [
+                "Manuscript",
+                "Free",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/058.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/058.png",
+            "attachedResource": "Plant",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 59,
+            "frontCorner": [
+                "null",
+                "Inkwell",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/059.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/059.png",
+            "attachedResource": "Plant",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 60,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/060.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/060.png",
+            "attachedResource": "Plant",
+            "point": 5,
+            "forEach": "null",
+            "requests": [
+                5,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 61,
+            "frontCorner": [
+                "Inkwell",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/061.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/061.png",
+            "attachedResource": "Animal",
+            "point": 1,
+            "forEach": "Inkwell",
+            "requests": [
+                0,
+                2,
+                1,
+                0
+            ]
+        },
+        {
+            "ID": 62,
+            "frontCorner": [
+                "null",
+                "Free",
+                "Free",
+                "Manuscript"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/062.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/062.png",
+            "attachedResource": "Animal",
+            "point": 1,
+            "forEach": "Manuscript",
+            "requests": [
+                1,
+                2,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 63,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Quill",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/063.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/063.png",
+            "attachedResource": "Animal",
+            "point": 1,
+            "forEach": "Quill",
+            "requests": [
+                0,
+                2,
+                0,
+                1
+            ]
+        },
+        {
+            "ID": 64,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/064.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/064.png",
+            "attachedResource": "Animal",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                0,
+                3,
+                1,
+                0
+            ]
+        },
+        {
+            "ID": 65,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/065.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/065.png",
+            "attachedResource": "Animal",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                0,
+                3,
+                0,
+                1
+            ]
+        },
+        {
+            "ID": 66,
+            "frontCorner": [
+                "null",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/066.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/066.png",
+            "attachedResource": "Animal",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                1,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 67,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Manuscript",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/067.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/067.png",
+            "attachedResource": "Animal",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 68,
+            "frontCorner": [
+                "Free",
+                "Manuscript",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/068.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/068.png",
+            "attachedResource": "Animal",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 69,
+            "frontCorner": [
+                "null",
+                "Free",
+                "null",
+                "Quill"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/069.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/069.png",
+            "attachedResource": "Animal",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                3,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 70,
+            "frontCorner": [
+                "null",
+                "Free",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/070.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/070.png",
+            "attachedResource": "Animal",
+            "point": 5,
+            "forEach": "null",
+            "requests": [
+                0,
+                5,
+                0,
+                0
+            ]
+        },
+        {
+            "ID": 71,
+            "frontCorner": [
+                "Free",
+                "Quill",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/071.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/071.png",
+            "attachedResource": "Insect",
+            "point": 1,
+            "forEach": "Quill",
+            "requests": [
+                1,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "ID": 72,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Manuscript",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/072.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/072.png",
+            "attachedResource": "Insect",
+            "point": 1,
+            "forEach": "Manuscript",
+            "requests": [
+                0,
+                1,
+                2,
+                0
+            ]
+        },
+        {
+            "ID": 73,
+            "frontCorner": [
+                "null",
+                "Free",
+                "Free",
+                "Inkwell"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/073.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/073.png",
+            "attachedResource": "Insect",
+            "point": 1,
+            "forEach": "Inkwell",
+            "requests": [
+                0,
+                0,
+                2,
+                1
+            ]
+        },
+        {
+            "ID": 74,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/074.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/074.png",
+            "attachedResource": "Insect",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                0,
+                1,
+                3,
+                0
+            ]
+        },
+        {
+            "ID": 75,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/075.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/075.png",
+            "attachedResource": "Insect",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                1,
+                0,
+                3,
+                0
+            ]
+        },
+        {
+            "ID": 76,
+            "frontCorner": [
+                "Free",
+                "null",
+                "Free",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/076.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/076.png",
+            "attachedResource": "Insect",
+            "point": 2,
+            "forEach": "cornerCovered",
+            "requests": [
+                0,
+                0,
+                3,
+                1
+            ]
+        },
+        {
+            "ID": 77,
+            "frontCorner": [
+                "Inkwell",
+                "null",
+                "Free",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/077.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/077.png",
+            "attachedResource": "Insect",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                3,
+                0
+            ]
+        },
+        {
+            "ID": 78,
+            "frontCorner": [
+                "Free",
+                "Manuscript",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/078.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/078.png",
+            "attachedResource": "Insect",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                3,
+                0
+            ]
+        },
+        {
+            "ID": 79,
+            "frontCorner": [
+                "null",
+                "null",
+                "Quill",
+                "Free"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/079.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/079.png",
+            "attachedResource": "Insect",
+            "point": 3,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                3,
+                0
+            ]
+        },
+        {
+            "ID": 80,
+            "frontCorner": [
+                "Free",
+                "Free",
+                "null",
+                "null"
+            ],
+            "backCorner": [
+                "Free",
+                "Free",
+                "Free",
+                "Free"
+            ],
+            "imagePathToFront": "src/main/java/polimi/ingsw/graphic_resources/cards_front/080.png",
+            "imagePathToBack": "src/main/java/polimi/ingsw/graphic_resources/cards_back/080.png",
+            "attachedResource": "Insect",
+            "point": 5,
+            "forEach": "null",
+            "requests": [
+                0,
+                0,
+                5,
+                0
+            ]
+        }
+    ]
+}

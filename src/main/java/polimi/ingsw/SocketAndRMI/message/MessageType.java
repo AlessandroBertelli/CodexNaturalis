@@ -1,0 +1,40 @@
+package polimi.ingsw.SocketAndRMI.message;
+
+/**
+ * This class represents all the possible message types between a client and server.
+ */
+public enum MessageType {
+    // Beginning of game
+    LOGIN_REQUEST,
+    LOGIN_REPLY,
+    PLAYERS_NUMBER_REQUEST,
+    WAITING_ROOM_REQUEST,
+    GAME_ROOM_REQUEST,
+    PLAYERSNUMBER_REPLY,
+    COLOR_REQUEST,
+    COLOR_RESPONSE,
+    SECRET_STARTING_REQUEST,
+    SECRET_STARTING_RESPONSE,
+
+    // Game messages
+    HANDS_RESPONSE_CARD,
+    COMMON_TARGET_CARD,
+    SECRET_TARGET_CARD,
+    PLACE_CARD_REQUEST,
+    PLACE_CARD_RESPONSE,
+    SCORE_BOARD,
+    PLAYER_INFORMATION,
+    DRAW_CARD_REQUEST,
+    DRAW_CARD_RESPONSE,
+    DISPLAY_DECKS,
+    FINAL_SCORE_BOARD,
+
+
+    // Utility
+    GENERIC_MESSAGE,
+    ERROR_MESSAGE,
+    PING_MESSAGE,
+    PLAYERS_LIST,
+    RECONNECTED_MANUSCRIPT_MESSAGE,
+    CHAT_MESSAGE
+}
